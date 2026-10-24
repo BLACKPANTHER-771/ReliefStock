@@ -1,0 +1,13 @@
+question,expected_answer
+"HELP","Lists the supported ReliefStock commands."
+"INVENTORY","Shows available resources and stock quantities."
+"SITES","Lists registered relief sites."
+"DEPOTS","Lists available supply depots."
+"REQUESTS","Lists submitted requests and their statuses."
+"STOCK resource=water quantity=2000","Updates water inventory and confirms the result."
+"ALLOCATE","Runs allocation and reports the resulting quantities"
+"DELIVERIES","Lists deliveries and their statuses."
+"Which village needs help most urgently?","Most urgent pending requests"
+"How can I request blankets, tents, and hygiene kits for a relief camp in my area?","To submit a relief request for a site or village, tell me:"
+"How do I donate supplies or register incoming inventory with the relief stock system?","To register incoming inventory or update depot stock:"
+"Where is delivery DEL-","Which delivery ID should I trace? Please specify a complete ID."

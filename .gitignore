@@ -1,0 +1,40 @@
+# Python & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+.venv/
+.venv-*/
+env/
+venv/
+ENV/
+
+# Environment Variables & Secrets
+.env
+*.env.local
+
+# Databases & Local Agent Storage
+*.json
+!sites.json
+!depots.json
+!package*.json
+reliefstock_state*.json
+
+# Testing & Coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# IDE & Editor artifacts
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Agentverse / temporary artifacts
+agentverse_temp/
+*.log
