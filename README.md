@@ -2,8 +2,13 @@
 
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![uAgents](https://img.shields.io/badge/uagents-0.12+-purple.svg)](https://fetch.ai/)
-[![Agentverse](https://img.shields.io/badge/Agentverse-Ready-brightgreen.svg)](https://agentverse.ai/)
-[![Tests](https://img.shields.io/badge/tests-33%20passed-success.svg)](test_agent_conversation.py)
+[![Agentverse](https://img.shields.io/badge/Agentverse-Live%20%40relief--stock--771-brightgreen.svg)](https://agentverse.ai/agents/details/agent1qqnfm6lwx2xj2slj938c54hljatg40vjwpymj60dm977lhagw6vzvle2lg9)
+[![Test Score](https://img.shields.io/badge/Agentverse%20Tests-100%25%20Passed-success.svg)](https://agentverse.ai/agents/details/agent1qqnfm6lwx2xj2slj938c54hljatg40vjwpymj60dm977lhagw6vzvle2lg9/testing)
+[![Tests](https://img.shields.io/badge/local%20tests-33%20passed-success.svg)](test_agent_conversation.py)
+
+> 🟢 **Live Agentverse Agent:** [`@relief-stock-771`](https://agentverse.ai/agents/details/agent1qqnfm6lwx2xj2slj938c54hljatg40vjwpymj60dm977lhagw6vzvle2lg9)  
+> **Agent Address:** `agent1qqnfm6lwx2xj2slj938c54hljatg40vjwpymj60dm977lhagw6vzvle2lg9`  
+> **Evaluation Outcome:** 100% Passed (8 of 8 automated checks verified)
 
 **ReliefStock AI** is an intelligent, fair, and transparent disaster-relief inventory, prioritization, allocation, and delivery tracking agent. Built using **Fetch.ai's uAgents** framework and **ASI:One**, it runs seamlessly on **Agentverse** with full conversational support, deterministic decision engines, and 100% automated test compliance.
 
